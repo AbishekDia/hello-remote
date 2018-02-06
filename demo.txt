@@ -1,2 +1,3 @@
 This is the new text file.
 Changes made on server.
+Changes made on local.
